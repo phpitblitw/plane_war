@@ -1,0 +1,4 @@
+﻿  rcc MainScene.qrc
+   RCC: Warning: No resources in 'E:\study\qt\plane_war\PlaneWar\PlaneWar\MainScene.qrc'.
+  qrc_MainScene.cpp
+  PlaneWar.vcxproj -> E:\study\qt\plane_war\PlaneWar\x64\Debug\PlaneWar.exe

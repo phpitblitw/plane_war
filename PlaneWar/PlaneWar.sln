@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PlaneWar", "PlaneWar\PlaneWar.vcxproj", "{73F17CA2-C315-4957-9972-CF03E2F96C27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73F17CA2-C315-4957-9972-CF03E2F96C27}.Debug|x64.ActiveCfg = Debug|x64
+		{73F17CA2-C315-4957-9972-CF03E2F96C27}.Debug|x64.Build.0 = Debug|x64
+		{73F17CA2-C315-4957-9972-CF03E2F96C27}.Release|x64.ActiveCfg = Release|x64
+		{73F17CA2-C315-4957-9972-CF03E2F96C27}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D0B0E5B-D992-4A1D-918E-FE0411999839}
+	EndGlobalSection
+EndGlobal
